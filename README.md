@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MedAmineKhbour
-- 👀 I’m interested in Software development and data science
+- 👀 I’m interested in Software development 
 - 🌱 I’m currently looking for a entry level job
 - 📫 Reach me at amine_khbour@live.com 
 
